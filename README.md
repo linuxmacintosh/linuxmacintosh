@@ -4,7 +4,7 @@ Download -
 BUILD USING `buildiso -f -p dr460nized-gaming`     
 
  Contains Mac themed: Desktop(KDE), bootloader(GRUB), LOGIN (SDDM) , Loading(Plymouth) 
- + About page shows macos BigSur
+ +About page shows macos BigSur
  
 ISO MADE USING buildiso using garuda.       
 the only modified version is dr460nized-gaming.          
