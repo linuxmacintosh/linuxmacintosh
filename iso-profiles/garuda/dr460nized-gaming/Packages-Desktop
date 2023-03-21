@@ -1,0 +1,200 @@
+####---->> MEDIA
+helvum
+lib32-pipewire-jack
+
+
+####---->> XORG
+xorg-server
+xorg-xwayland
+xorg-xhost
+xorg-xinit
+xorg-xinput
+
+
+####---->> UTILITIES
+autorandr
+xdg-desktop-portal
+xdg-desktop-portal-kde
+
+
+####---->> NETWORKING
+modem-manager-gui
+firewalld
+
+
+####---->> THEMING
+whitesur-gtk-theme
+whitesur-kde-theme-git
+
+####---->> SETTINGS
+garuda-settings-manager-kcm
+performance-tweaks
+
+
+####---->> DISPLAY MANAGER
+sddm
+sddm-kcm
+
+
+####---->> DESKTOP ENVIRONMENT
+bluedevil
+kde-gtk-config
+kdeplasma-addons
+khotkeys
+kinfocenter
+kinit
+kscreen
+ksshaskpass
+kwallet-pam
+kwayland-integration
+kwin
+kwin-scripts-forceblur
+plasma-browser-integration
+plasma-desktop
+plasma-nm
+plasma-pa
+plasma-thunderbolt
+plasma-firewall
+plasma-systemmonitor
+plasma5-applets-eventcalendar
+plasma5-applets-window-appmenu
+plasma5-applets-window-buttons
+plasma5-applets-window-title
+powerdevil
+power-profiles-daemon
+quota-tools
+
+
+####---->> DESKTOP ENVIRONMENT APPS
+ark
+dolphin
+dolphin-plugins
+elisa
+gwenview
+jhead
+kate
+kcalc
+kde-service-menu-reimage
+kde-servicemenus-encfs
+kde-servicemenus-komparemenu
+kde-servicemenus-officeconverter
+kde-servicemenus-pdf
+kde-servicemenus-pdf-encrypt-decrypt
+kde-servicemenus-rootactions
+kde-servicemenus-sendtodesktop
+kdeconnect
+kget
+konsole
+krdc
+krfb
+ktorrent
+okular
+partitionmanager
+spectacle
+
+
+####---->> ADDITIONAL FUNCTIONALITY
+appmenu-gtk-module
+ffmpegthumbs
+icoutils
+kaccounts-providers
+kamera
+kdegraphics-thumbnailers
+kimageformats
+kio-extras
+kio-fuse
+kio-gdrive
+octopi
+qt5-imageformats
+ruby
+resvg
+
+
+####---->> OTHER APPS
+alacritty
+libappindicator-gtk3
+libinput_gestures_qt
+mpv
+nextcloud-client
+thunderbird
+vlc
+
+
+####---->> OTHER APPS EXTRA
+discord
+telegram-desktop
+
+
+####---->> VIRTUALIZATION
+virt-manager-meta
+
+
+####game stuff
+lutris
+steam
+steam-native-runtime
+
+
+####---->> GAMING TOOLS
+argyllcms
+boxtron
+corectrl
+displaycal
+dxvk-mingw-git
+fancontrol-gui-git
+fuseiso
+gamemode
+goverlay-git
+guiscrcpy
+keyboard-visualizer-git
+lib32-gamemode
+lib32-mangohud
+lib32-vkbasalt
+mangohud
+obs-studio
+openrgb
+piper
+proton-ge-custom
+protontricks-git
+reshade-shaders-git
+steamtinkerlaunch
+vkbasalt
+
+
+####---->> GAME CONTROLLER
+antimicrox
+game-devices-udev
+linuxconsole
+oversteer
+retroarch-autoconfig-udev-git
+
+
+####---->> EMULATORS
+
+
+####---->> WINE
+wine-staging
+wine-meta
+
+
+
+####---->> MY :) Stuff
+pamac
+brave
+github-desktop
+noisetorch
+spotify
+gimp
+krita
+kdenlive
+code
+davinci-resolve
+nodejs
+google-chrome
+appimagelauncher
+libreoffice-fresh
+qbittorrent
+flatpak
+mari0
+droidcam
+jdk-openjdk
