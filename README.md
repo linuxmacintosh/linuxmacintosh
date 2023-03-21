@@ -1,7 +1,7 @@
 # Fully Macintosh Themed linux      
 
-(DOWNLOAD NOT ON GITHUB AS 7GB LOL)     
-To DOWNLOAD, GO TO THIS LINK ---            
+BUILD USING `buildiso -f -p dr460nized-gaming`     
+
  
 ISO MADE USING buildiso using garuda.       
 the only modified version is dr460nized-gaming.          
